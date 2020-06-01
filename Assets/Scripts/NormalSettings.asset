@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb246440cb358e43b2fe386b14961e1, type: 3}
+  m_Name: NormalSettings
+  m_EditorClassIdentifier: 
+  xBound: 100
+  zBound: 50
+  yBound: 10
+  maxSpeed: 30
+  minSpeed: 0
+  maxSteer: 50
+  minDist: 0
+  boundFactor: 400
+  flockRadius: 20
+  flockCenterFactor: 0.4
+  normalizeForces: 0
